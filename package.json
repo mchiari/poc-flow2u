@@ -1,0 +1,11 @@
+{
+  "name": "poc-flow2u",
+  "version": "1.0.0",
+  "description": "poc for the wannabe new flow data structure",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Matheus Chiari",
+  "license": "ISC"
+}
